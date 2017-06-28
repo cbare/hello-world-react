@@ -9,12 +9,19 @@
     "start": "webpack-dev-server --content-base dist/ --progress --history-api-fallback"
   },
   "dependencies": {
+    "babel-plugin-syntax-decorators": "^6.13.0",
     "css-loader": "^0.28.4",
+    "lodash": "^4.17.4",
     "path": "^0.12.7",
+    "raven-for-redux": "^1.0.0",
+    "raven-js": "^3.16.0",
     "react": "^15.6.0",
     "react-dom": "^15.6.0",
+    "react-redux": "^5.0.5",
     "react-router": "^4.1.1",
     "react-router-dom": "^4.1.1",
+    "redux": "^3.6.0",
+    "style-loader": "^0.18.2",
     "webpack": "^2.6.1",
     "webpack-dev-server": "^2.4.5"
   },
