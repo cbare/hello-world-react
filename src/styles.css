@@ -1,0 +1,20 @@
+#nav {
+    display: inline;
+    list-style: none;
+}
+
+#nav li {
+  display: inline;
+}
+
+#nav li:after {
+  content: " | ";
+}
+
+#nav li:last-child:after {
+    content: "";
+}
+
+#blast-zone {
+    color: #33FF33;
+}

@@ -7,3 +7,4 @@ To get started, I did this helpful tutorial on [setting up a React dev environme
 ## Uses
  * [React](https://facebook.github.io/react/)
  * [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
+ * [Raven integration with Sentry.io](https://docs.sentry.io/clients/javascript/integrations/react/)

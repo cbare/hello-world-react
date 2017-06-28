@@ -17,6 +17,7 @@ class Animals extends React.Component {
 
         <p>{ this.props.match.params.animal }</p>
 
+        <div><Link to="/">home</Link></div>
       </div>);
   }
 }
